@@ -1,2 +1,3 @@
-name = "reyan"
-print(name)
+input(" ")
+
+
