@@ -1,1 +1,2 @@
-i = "hh"
+name = "reyan"
+print(name)
